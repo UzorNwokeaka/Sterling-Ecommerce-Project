@@ -8,7 +8,7 @@ At Sterling E-Commerce, they offer a wide selection of products across various c
 fashion, computing, entertainment, mobiles & tablets, appliances, beauty & grooming, home & living, soghaat, school & education,
 books, and more. They pride themselves on offering a comprehensive range of products that caters to the needs of their diverse customer
 base. They are proud to be a leading e-commerce retailer, and are committed to continuous innovation and improvement to meet the
-evolving needs of their customers. 
+evolving needs of their customers.
 
 **Problem Description:**
 
